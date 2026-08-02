@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+openai
+langchain
+chromadb
+faiss-cpu
+python-dotenv
+streamlit
+pandas
+numpy
+sqlalchemy
+requests
+tiktoken
