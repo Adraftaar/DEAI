@@ -83,6 +83,133 @@ python src/main.py
 - Autonomous Workflow
 
 ---
+# 🚀 DEAI - Data Engineering AI Assistant
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT-green)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-success)
+![LangChain](https://img.shields.io/badge/LangChain-AI-orange)
+![Docker](https://img.shields.io/badge/Docker-Ready-blue)
+![License](https://img.shields.io/badge/License-MIT-red)
+
+An AI-powered assistant built specifically for Data Engineers.
+
+---
+
+## Features
+
+- SQL Query Generator
+- SQL Optimizer
+- ETL Development Assistant
+- Informatica PowerCenter Expert
+- Informatica IICS Expert
+- Airflow Support
+- Databricks Support
+- Spark Support
+- Azure Data Factory
+- AWS Glue
+- Linux Command Generator
+- Shell Script Generator
+- Resume Reviewer
+- Interview Preparation
+- Data Warehouse Design
+- Production Support Assistant
+- Documentation Generator
+- Root Cause Analysis
+- Error Resolution
+
+---
+
+## Architecture
+
+```text
+User
+   │
+Streamlit UI
+   │
+FastAPI
+   │
+LangChain
+   │
+GPT Model
+   │
+Vector Database
+   │
+Knowledge Base
+```
+
+---
+
+## Installation
+
+```bash
+git clone https://github.com/<your-username>/DEAI.git
+
+cd DEAI
+
+python -m venv venv
+
+source venv/bin/activate
+
+pip install -r requirements.txt
+
+cp .env.example .env
+
+python src/main.py
+```
+
+---
+
+## Tech Stack
+
+- Python
+- FastAPI
+- LangChain
+- OpenAI
+- ChromaDB
+- FAISS
+- SQLite
+- Streamlit
+- Docker
+- GitHub Actions
+
+---
+
+## Roadmap
+
+### Version 1
+
+- SQL Agent
+- ETL Agent
+- Linux Agent
+
+### Version 2
+
+- Informatica Agent
+- IICS Agent
+- Airflow Agent
+
+### Version 3
+
+- Databricks Agent
+- Spark Agent
+- Azure Agent
+- AWS Agent
+
+### Version 4
+
+- Multi Agent System
+- Memory
+- RAG
+- MCP
+
+### Version 5
+
+- Voice Assistant
+- Mobile App
+- VS Code Extension
+
+---
 
 ## Author
 
